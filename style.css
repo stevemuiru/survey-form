@@ -1,0 +1,83 @@
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+
+ }
+ form{
+    border: 1px solid linen;
+    border-radius: 15px;
+    font-family: tahoma;
+    
+    
+
+ }
+ h3{
+    text-align: left;
+    font-weight: bold;
+
+ }
+ .form-inputs{
+    display: block;
+    width: 90%;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+
+
+ }
+ .programming-languages{
+    text-align: left;
+ }
+ .dropdown-options{
+    text-align: left;
+ }
+ .radio-options{
+    text-align: left;
+ }
+ button{
+    width: 50%;
+    background-color: black;
+    color: linen;
+    cursor: pointer;
+    margin-bottom: 50px;
+    height: 2rem;
+    margin: 0;
+ }
+ button:hover{
+    opacity: 0.7;
+ }
+ textarea{
+    width: 75%;
+    height: 4rem;
+    border: 2px solid;
+    border-radius: 6px;
+    margin: 0;
+ }
+ p{
+    font-size: 15px;
+
+ }
+ h1{
+    font-style: anton;
+    font-weight: bold;
+    font-family: tahoma;
+
+ }
+ h2{
+    font-size: 18px;
+    font-family: tahoma;
+ }
+ .visit-us{
+   font-size: 18px;
+ }
+ a{
+    text-decoration: none;
+    color: black
+ }
+ a:hover{
+    font-size: 20px;
+ }
+
+ 
